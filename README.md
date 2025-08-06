@@ -21,3 +21,10 @@ A simple project to track my daily learning progress using Git and GitHub.
 ## Author
 
 Tanmay Kaushik
+
+## 🛸 Future Goals
+
+- Learn branching and merging
+- Collaborate using pull requests
+- Try GitHub Pages
+
