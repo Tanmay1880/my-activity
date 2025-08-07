@@ -16,15 +16,17 @@ A simple project to track my daily learning progress using Git and GitHub.
 ## Goals
 
 - Build daily habit of coding
-- Learn Git branching, merging, and collaboration
+- Learn java concept 
+
+
+## 🛸 Future Goals
+
+- proficient in java basics concepts 
+- Try GitHub Pages
 
 ## Author
 
 Tanmay Kaushik
 
-## 🛸 Future Goals
-
-- Learn branching and merging
-- Collaborate using pull requests
-- Try GitHub Pages
+ 
 
