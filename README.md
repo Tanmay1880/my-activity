@@ -7,6 +7,7 @@ A simple project to track my daily learning progress using Git and GitHub.
 - Git basics: init, add, commit, push
 - Cloning and working with remote repos
 - Creating and editing README.md files
+- statement and loops 
 
 ## Structure
 
@@ -22,6 +23,7 @@ A simple project to track my daily learning progress using Git and GitHub.
 ## 🛸 Future Goals
 
 - proficient in java basics concepts 
+- to do competitive coding 
 - Try GitHub Pages
 
 ## Author
