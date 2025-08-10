@@ -16,7 +16,7 @@ A simple project to track my daily learning progress using Git and GitHub.
 
 ## Goals
 
-- Build daily habit of coding
+- Building daily habit of coding
 - Learn java concept 
 
 
